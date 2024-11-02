@@ -1,0 +1,14 @@
+The object-oriented programming (OOP) paradigm is a software development approach that uses objects to design computer programs and applications:
+Objects: Contain data and code, with data stored in fields and code stored in procedures. 
+
+Objects can represent real-world entities, such as a user, a desktop icon, or a database row.
+
+Classes: Define the structure and behaviors of objects created from them. Classes can be thought of as blueprints for creating objects.
+
+Encapsulation: Binds data and functions that manipulate that data into a single object. This protects the object's internal state from unintended access and modification.
+
+Inheritance: Allows new objects to take on the properties of existing objects.
+
+Polymorphism: Enables objects of different classes to be treated as objects of a common super class. This facilitates code generalizability and reuse.
+
+Abstraction: Hides complex details and provides a simple interface

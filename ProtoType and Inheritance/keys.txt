@@ -1,0 +1,5 @@
+What is DRY Principle??
+The DRY (Don’t Repeat Yourself) principle is a software development
+concept aimed at reducing redundancy in code. It emphasizes that information
+or logic should be defined only once within a system, rather than being duplicated
+in multiple places. The main idea is to keep code modular, efficient, and easier to maintain.
